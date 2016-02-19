@@ -1,0 +1,4 @@
+--- !ruby/object:Hero
+name: Mattalack
+power: 1000
+health: 2500
